@@ -1,5 +1,7 @@
 # dsh-ui-personal-theme
 
+[English](README.md) | [中文](README_zh.md)
+
 Personal UI theme customization for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DSH).
 
 A profile-local plugin that stacks a custom color palette over the active
